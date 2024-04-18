@@ -1,7 +1,7 @@
 {
   "indri_update": [
     {
- "version":"5.75.0",
+ "version":"5.74.0",
  "title":"Update Tersedia",
  "description":"SalMod InDriver recommends that you
 update to the latest version 5.74.0 You
