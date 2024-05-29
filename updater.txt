@@ -1,7 +1,7 @@
 {
   "indri_update": [
     {
- "version":"5.76.0",
+ "version":"5.79.0",
  "title":"Update Tersedia",
  "description":"SalMod inDriver merekomendasikan Anda
 perbarui ke versi terbaru 5.79.0 Anda
