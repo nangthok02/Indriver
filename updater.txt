@@ -1,13 +1,13 @@
 {
   "indri_update": [
     {
- "version":"5.79.0",
+ "version":"5.84.0",
  "title":"Update Tersedia",
  "description":"SalMod inDriver merekomendasikan Anda
-perbarui ke versi terbaru 5.79.0 Anda
+perbarui ke versi terbaru 5.84.0 Anda
 dapat tetap online aplikasinya sementara
 mengunduh pembaruan.",
-"download":"https://drive.google.com"
+"download":"https://t.me/Cukup_pinot"
 }
   ]
 }
